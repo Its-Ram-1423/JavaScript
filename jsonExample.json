@@ -1,0 +1,22 @@
+{
+    "CollegeName": "Unique Arts & Science College",
+    "Departments": [
+        "CS",
+        "BA",
+        "BCA",
+        "BSC"
+    ],
+    "Year": 3,
+    "co-ed": true,
+    "pg": null,
+    "busRoots": [
+        {
+            "busNumber": 1,
+            "destination": "TPT"
+        },
+        {
+            "busNumber": 2,
+            "destination": "Ambur"
+        }
+    ]
+}
