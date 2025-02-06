@@ -1,0 +1,25 @@
+@use "./abstract/mixins" as *;
+
+.btn{
+    @include btn(#000);
+    &-primary{
+        @include btn(#000);
+        background-color: lightblue;
+    }
+    &-secondary{
+        @include btn;
+        background-color: lightgreen;
+    }
+    &-danger{
+        @include btn;
+        background-color: red;
+    }
+}
+
+@for $i from 1 through 6{
+    @warn "return value #{$i}";
+    h#{$i}{
+        font-size: 20px * $i; 
+        color: rgb(random(255) random(255) random(255));
+    }
+}

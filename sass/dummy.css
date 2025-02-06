@@ -1,0 +1,85 @@
+.btn {
+  padding: 12px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  margin-top: 15px;
+  color: #000;
+}
+.btn-primary {
+  padding: 12px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  margin-top: 15px;
+  color: #000;
+  background-color: lightblue;
+}
+.btn-secondary {
+  padding: 12px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  margin-top: 15px;
+  color: #fff;
+  background-color: lightgreen;
+}
+.btn-danger {
+  padding: 12px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  margin-top: 15px;
+  color: #fff;
+  background-color: red;
+}
+
+h1 {
+  font-size: 20px;
+  color: rgb(21, 220, 240);
+}
+
+h2 {
+  font-size: 40px;
+  color: rgb(229, 26, 135);
+}
+
+h3 {
+  font-size: 60px;
+  color: rgb(52, 98, 60);
+}
+
+h4 {
+  font-size: 80px;
+  color: rgb(242, 6, 194);
+}
+
+h5 {
+  font-size: 100px;
+  color: rgb(18, 206, 40);
+}
+
+h6 {
+  font-size: 120px;
+  color: rgb(32, 30, 209);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5px;
+  background-color: #CCCCFF;
+}
+
+h1 {
+  color: rgb(91, 76, 252);
+}
+
+.container__title {
+  font-size: 20px;
+}/*# sourceMappingURL=dummy.css.map */

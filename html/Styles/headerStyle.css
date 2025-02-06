@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a .active{
+    background-color: #fff;
+    color: black;
+}
+
+a:visited{
+    background-color: #fff;
+    color: black;
+    height: 20px;
+    width: 500px;
+}
+
+a:hover{
+    background-color: #fff;
+    color: black;
+}
+    
+header{
+    background-color: rgb(190, 129, 247);
+}
+
+nav li{
+    list-style-type: none;
+    display: inline-block;
+    height: 200px;
+    padding: 5px;   
+    width: 200px;
+    margin: 5px;
+    box-sizing: border-box;
+
+}
+
+nav li a{
+    text-decoration: none;
+
+}
